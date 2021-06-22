@@ -57,16 +57,16 @@ const vcard = 'BEGIN:VCARD\n' //jangan ganti Sayang
             + 'ORG: RIYAN B0T;\n' //ganti nama bot kamu sayang
             + 'TEL;type=CELL;type=VOICE;waid=6283153406515:+6283153406515\n'  //ganti nomor kamu sayang
             + 'END:VCARD' //jangan ganti sayang
-prefix = '#' //terserah mau ganti apa gak muach
+prefix = '.' //terserah mau ganti apa gak muach
 blocked = [] //biarin aja ya sayang
-limitawal = 99999 //terserah mau ganti apa gak sayang
+limitawal = 40 //terserah mau ganti apa gak sayang
 memberlimit = 1 //terserah mau ganti apa gak sayang
-namabot = 'RIYAN BOTZ'
+namabot = 'DAIGO BOTZ'
 cr = '*「 RIYAN BOT」*' //ganti nama bot
 lolkey = '682aeab645ed61cf137cf971' //apiknya ya sayang
 /******** OWNER NUMBER**********/
 
-const ownerNumber = ["6283153406515@s.whatsapp.net"]   //ganti nomor kamu sayang
+const ownerNumber = ["6282137344448@s.whatsapp.net"]   //ganti nomor kamu sayang
 
 
 /*********** LOAD FILE ***********/
