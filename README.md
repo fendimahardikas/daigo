@@ -1,7 +1,7 @@
 ##CARA INSTALL MELALUI GIT
 
 > pkg install git
-> gitclone https://github.com/ItsAraZ/Arabot
+> gitclone https://github.com/fendimahardikas/daigo
 > cd arabot
 > bash install.sh
 > npm start
